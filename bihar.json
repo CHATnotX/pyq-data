@@ -1,9 +1,1 @@
-{
-  "subjects": [],
-  "categories": [],
-  "papers": [],
-  "notes": [],
-  "books": [],
-  "important": [],
-  "practice": []
-}
+{"settings":{},"subjects":[{"id":"maths","name":"Mathematics","emoji":"📐"},{"id":"science","name":"Science","emoji":"🔬"},{"id":"hindi","name":"Hindi","emoji":"📜"},{"id":"english","name":"English","emoji":"🔤"},{"id":"sst","name":"Social Science","emoji":"🌍"},{"id":"sanskrit","name":"Sanskrit","emoji":"🕉️"}],"categories":[],"papers":[],"notes":[],"books":[],"important":[],"practice":[],"notifications":[],"appLinks":[]}
