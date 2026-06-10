@@ -30,6 +30,11 @@
       "id": "sanskrit",
       "name": "Sanskrit",
       "emoji": "🕉️"
+    },
+    {
+      "id": "java",
+      "name": "java",
+      "emoji": "📚"
     }
   ],
   "categories": [],
