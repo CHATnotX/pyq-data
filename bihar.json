@@ -1,1 +1,93 @@
-{"settings":{},"subjects":[{"id":"maths","name":"Mathematics","emoji":"📐"},{"id":"science","name":"Science","emoji":"🔬"},{"id":"hindi","name":"Hindi","emoji":"📜"},{"id":"english","name":"English","emoji":"🔤"},{"id":"sst","name":"Social Science","emoji":"🌍"},{"id":"sanskrit","name":"Sanskrit","emoji":"🕉️"}],"categories":[],"papers":[],"notes":[{"id":"1781091522029","subject":"maths","chapterNo":0,"chapter":"dsvfd","pages":0,"driveId":"dvsf","type":"handwritten"}],"books":[{"id":"1781090921240","subject":"science","title":"dfd","author":"","publisher":"","edition":"","pages":0,"type":"NCERT","driveId":"https://docs.google.com/document/d/1nxTzYepZ42qt47HFH-_IfLcyDqsHLj_v/edit?usp=drive_link&ouid=116997166236229499095&rtpof=true&sd=true"}],"important":[],"practice":[],"notifications":[{"id":"1781091893202","title":"adf","message":"d","type":"general","tag":"Science","createdAt":"2026-06-10T11:44:53.202Z","isNew":true}],"appLinks":[{"id":"1781087860919","name":"dsv","subtitle":"vv","url":"careerflora.com","color":"#1565C0"}]}
+{
+  "settings": {},
+  "subjects": [
+    {
+      "id": "maths",
+      "name": "Mathematics",
+      "emoji": "📐"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "emoji": "🔬"
+    },
+    {
+      "id": "hindi",
+      "name": "Hindi",
+      "emoji": "📜"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "emoji": "🔤"
+    },
+    {
+      "id": "sst",
+      "name": "Social Science",
+      "emoji": "🌍"
+    },
+    {
+      "id": "sanskrit",
+      "name": "Sanskrit",
+      "emoji": "🕉️"
+    }
+  ],
+  "categories": [],
+  "papers": [
+    {
+      "id": "1781092652227",
+      "subject": "maths",
+      "year": "d",
+      "category": "board_solved",
+      "sets": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "1781091522029",
+      "subject": "maths",
+      "chapterNo": 0,
+      "chapter": "dsvfd",
+      "pages": 0,
+      "driveId": "dvsf",
+      "type": "handwritten"
+    }
+  ],
+  "books": [
+    {
+      "id": "1781090921240",
+      "subject": "science",
+      "title": "dfd",
+      "author": "",
+      "publisher": "",
+      "edition": "",
+      "pages": 0,
+      "type": "NCERT",
+      "driveId": "https://docs.google.com/document/d/1nxTzYepZ42qt47HFH-_IfLcyDqsHLj_v/edit?usp=drive_link&ouid=116997166236229499095&rtpof=true&sd=true"
+    }
+  ],
+  "important": [],
+  "practice": [],
+  "notifications": [
+    {
+      "id": "1781091893202",
+      "title": "adf",
+      "message": "d",
+      "type": "general",
+      "tag": "Science",
+      "createdAt": "2026-06-10T11:44:53.202Z",
+      "isNew": true
+    }
+  ],
+  "appLinks": [
+    {
+      "id": "1781087860919",
+      "name": "dsv",
+      "subtitle": "vv",
+      "url": "careerflora.com",
+      "color": "#1565C0"
+    }
+  ],
+  "homeCards": [],
+  "drawerItems": []
+}
