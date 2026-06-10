@@ -38,7 +38,15 @@
     }
   ],
   "categories": [],
-  "papers": [],
+  "papers": [
+    {
+      "id": "1781094123215",
+      "subject": "java",
+      "year": "2020",
+      "category": "board_solved",
+      "sets": []
+    }
+  ],
   "notes": [
     {
       "id": "1781091522029",
