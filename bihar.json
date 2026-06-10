@@ -70,17 +70,7 @@
   ],
   "important": [],
   "practice": [],
-  "notifications": [
-    {
-      "id": "1781091893202",
-      "title": "adf",
-      "message": "d",
-      "type": "general",
-      "tag": "Science",
-      "createdAt": "2026-06-10T11:44:53.202Z",
-      "isNew": true
-    }
-  ],
+  "notifications": [],
   "appLinks": [
     {
       "id": "1781087860919",
