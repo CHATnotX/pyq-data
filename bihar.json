@@ -1,5 +1,10 @@
 {
-  "settings": {},
+  "settings": {
+    "appName": "Bir Board 10th",
+    "bannerTitle": "BSEB Class 10",
+    "bannerSubtitle": "Previous Year Question Papers",
+    "bannerEmoji": "📘"
+  },
   "subjects": [
     {
       "id": "maths",
