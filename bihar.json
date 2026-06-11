@@ -20,6 +20,16 @@
       "showBooks": true,
       "showImportant": true,
       "showMcq": true
+    },
+    {
+      "id": "dsa",
+      "name": "dsa",
+      "emoji": "📚",
+      "showPapers": true,
+      "showNotes": true,
+      "showBooks": true,
+      "showImportant": true,
+      "showMcq": true
     }
   ],
   "categories": [],
