@@ -43,7 +43,24 @@
     }
   ],
   "categories": [],
-  "papers": [],
+  "papers": [
+    {
+      "id": "1781184421290",
+      "title": "d",
+      "subject": "python",
+      "year": "2020",
+      "category": "board_solved",
+      "sets": [
+        {
+          "setName": "",
+          "code": "",
+          "pages": 0,
+          "paperDriveId": "",
+          "solutionDriveId": ""
+        }
+      ]
+    }
+  ],
   "notes": [],
   "books": [],
   "important": [],
