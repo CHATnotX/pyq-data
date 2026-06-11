@@ -4,6 +4,21 @@
       "fsd": {
         "easy": []
       }
+    },
+    "Maths": {
+      "xyz": {
+        "assertion": [
+          {
+            "question": "jjbjkbljb",
+            "optionA": "f",
+            "optionB": "l",
+            "optionC": "m",
+            "optionD": "l",
+            "correctAnswer": "A",
+            "explanation": ""
+          }
+        ]
+      }
     }
   }
 }
