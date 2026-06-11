@@ -1,172 +1,25 @@
 {
-  "settings": {
-    "appName": "Bihar Board 10th",
-    "bannerTitle": "BSEB Class 10",
-    "bannerSubtitle": "Previous Year Question Papers",
-    "bannerEmoji": "📘"
-  },
+  "settings": {},
   "subjects": [
     {
-      "id": "maths",
-      "name": "Mathematics",
-      "emoji": "📐"
-    },
-    {
-      "id": "science",
-      "name": "Science",
-      "emoji": "🔬"
-    },
-    {
-      "id": "hindi",
-      "name": "Hindi",
-      "emoji": "📜"
-    },
-    {
-      "id": "english",
-      "name": "English",
-      "emoji": "🔤"
-    },
-    {
-      "id": "sst",
-      "name": "Social Science",
-      "emoji": "🌍"
-    },
-    {
-      "id": "sanskrit",
-      "name": "Sanskrit",
-      "emoji": "🕉️"
+      "id": "python",
+      "name": "PYTHON",
+      "emoji": "📚",
+      "showPapers": true,
+      "showNotes": true,
+      "showBooks": true,
+      "showImportant": true,
+      "showMcq": true
     }
   ],
   "categories": [],
-  "papers": [
-    {
-      "id": "1781179540188",
-      "title": "demo",
-      "subject": "maths",
-      "year": "2015",
-      "category": "board_solved",
-      "sets": [
-        {
-          "setName": "",
-          "code": "",
-          "pages": 0,
-          "paperDriveId": "ddads",
-          "solutionDriveId": "dssds"
-        }
-      ]
-    },
-    {
-      "id": "1781183896605",
-      "title": "v",
-      "subject": "science",
-      "year": "2019",
-      "category": "board_solved",
-      "sets": [
-        {
-          "setName": "",
-          "code": "",
-          "pages": 0,
-          "paperDriveId": "",
-          "solutionDriveId": ""
-        }
-      ]
-    },
-    {
-      "id": "1781183934531",
-      "title": "hz",
-      "subject": "hindi",
-      "year": "2000",
-      "category": "board_solved",
-      "sets": [
-        {
-          "setName": "",
-          "code": "",
-          "pages": 0,
-          "paperDriveId": "",
-          "solutionDriveId": ""
-        }
-      ]
-    },
-    {
-      "id": "1781184034780",
-      "title": "demo this is",
-      "subject": "science",
-      "year": "2019",
-      "category": "board_solved",
-      "sets": [
-        {
-          "setName": "A",
-          "code": "",
-          "pages": 0,
-          "paperDriveId": "",
-          "solutionDriveId": ""
-        }
-      ]
-    },
-    {
-      "id": "1781184070429",
-      "title": "sanskrit demo",
-      "subject": "sanskrit",
-      "year": "1489",
-      "category": "board_solved",
-      "sets": [
-        {
-          "setName": "A",
-          "code": "",
-          "pages": 0,
-          "paperDriveId": "",
-          "solutionDriveId": ""
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "id": "1781091522029",
-      "subject": "maths",
-      "chapterNo": 0,
-      "chapter": "dsvfd",
-      "pages": 0,
-      "driveId": "dvsf",
-      "type": "handwritten"
-    },
-    {
-      "id": "1781183967071",
-      "subject": "java",
-      "chapterNo": 0,
-      "chapter": "dv",
-      "title": "dv",
-      "description": "",
-      "pages": 0,
-      "driveId": "",
-      "type": "handwritten"
-    }
-  ],
-  "books": [
-    {
-      "id": "1781090921240",
-      "subject": "science",
-      "title": "dfd",
-      "author": "",
-      "publisher": "",
-      "edition": "",
-      "pages": 0,
-      "type": "NCERT",
-      "driveId": "https://docs.google.com/document/d/1nxTzYepZ42qt47HFH-_IfLcyDqsHLj_v/edit?usp=drive_link&ouid=116997166236229499095&rtpof=true&sd=true"
-    }
-  ],
+  "papers": [],
+  "notes": [],
+  "books": [],
   "important": [],
   "practice": [],
   "notifications": [],
-  "appLinks": [
-    {
-      "id": "1781087860919",
-      "name": "dsv",
-      "subtitle": "vv",
-      "url": "careerflora.com",
-      "color": "#1565C0"
-    }
-  ],
+  "appLinks": [],
   "homeCards": [],
   "drawerItems": []
 }
