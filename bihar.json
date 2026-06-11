@@ -30,6 +30,16 @@
       "showBooks": true,
       "showImportant": true,
       "showMcq": true
+    },
+    {
+      "id": "html",
+      "name": "html",
+      "emoji": "📚",
+      "showPapers": true,
+      "showNotes": true,
+      "showBooks": true,
+      "showImportant": true,
+      "showMcq": true
     }
   ],
   "categories": [],
