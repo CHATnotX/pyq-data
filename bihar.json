@@ -43,7 +43,24 @@
     }
   ],
   "categories": [],
-  "papers": [],
+  "papers": [
+    {
+      "id": "1781179540188",
+      "title": "demo",
+      "subject": "maths",
+      "year": "2015",
+      "category": "board_solved",
+      "sets": [
+        {
+          "setName": "",
+          "code": "",
+          "pages": 0,
+          "paperDriveId": "ddads",
+          "solutionDriveId": "dssds"
+        }
+      ]
+    }
+  ],
   "notes": [
     {
       "id": "1781091522029",
