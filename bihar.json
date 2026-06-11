@@ -10,6 +10,16 @@
       "showBooks": true,
       "showImportant": true,
       "showMcq": true
+    },
+    {
+      "id": "c",
+      "name": "c++",
+      "emoji": "📚",
+      "showPapers": true,
+      "showNotes": true,
+      "showBooks": true,
+      "showImportant": true,
+      "showMcq": true
     }
   ],
   "categories": [],
