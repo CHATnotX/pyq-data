@@ -113,7 +113,17 @@
   "books": [],
   "important": [],
   "practice": [],
-  "notifications": [],
+  "notifications": [
+    {
+      "id": "1781184736882",
+      "title": "app working hai be",
+      "message": "hii hiihee hee",
+      "type": "general",
+      "tag": "",
+      "createdAt": "2026-06-11T13:32:16.882Z",
+      "isNew": true
+    }
+  ],
   "appLinks": [],
   "homeCards": [],
   "drawerItems": []
